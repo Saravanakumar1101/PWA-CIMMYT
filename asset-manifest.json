@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/PWA-CIMMYT/static/css/main.370ec2a1.css",
-    "main.js": "/PWA-CIMMYT/static/js/main.a4172470.js",
+    "main.css": "/PWA-CIMMYT/static/css/main.809bf3c3.css",
+    "main.js": "/PWA-CIMMYT/static/js/main.ac757293.js",
     "static/js/453.35100383.chunk.js": "/PWA-CIMMYT/static/js/453.35100383.chunk.js",
-    "static/media/Online-world.png": "/PWA-CIMMYT/static/media/Online-world.2027cce19d95e09bc306.png",
     "static/media/fa-solid-900.ttf": "/PWA-CIMMYT/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/PWA-CIMMYT/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/PWA-CIMMYT/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -15,12 +14,12 @@
     "static/media/fa-v4compatibility.ttf": "/PWA-CIMMYT/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/PWA-CIMMYT/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/PWA-CIMMYT/index.html",
-    "main.370ec2a1.css.map": "/PWA-CIMMYT/static/css/main.370ec2a1.css.map",
-    "main.a4172470.js.map": "/PWA-CIMMYT/static/js/main.a4172470.js.map",
+    "main.809bf3c3.css.map": "/PWA-CIMMYT/static/css/main.809bf3c3.css.map",
+    "main.ac757293.js.map": "/PWA-CIMMYT/static/js/main.ac757293.js.map",
     "453.35100383.chunk.js.map": "/PWA-CIMMYT/static/js/453.35100383.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.370ec2a1.css",
-    "static/js/main.a4172470.js"
+    "static/css/main.809bf3c3.css",
+    "static/js/main.ac757293.js"
   ]
 }
